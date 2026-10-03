@@ -11,3 +11,7 @@ Projeto desenvolvido para a disciplina de Qualidade de Software.
 - Git 
 - GitHub 
 - Visual Studio Code 
+ 
+## Objetivo 
+ 
+Demonstrar conceitos básicos de controle de versão, repositórios e colaboração utilizando Git e GitHub. 
